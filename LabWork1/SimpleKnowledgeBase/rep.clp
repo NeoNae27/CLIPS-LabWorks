@@ -1,0 +1,13 @@
+(deffacts rep
+    (rep Alejnov Moscow)
+    (rep Ladak Moscow)
+    (rep Slobodjanjuk Khabarovsk)
+    (rep Klitka Khabarovsk)
+    (rep Bojko Syktyvkar)
+    (rep Pustovit Moscow)
+    (rep Spokojnij Moscow)
+    (rep Shamis Moscow)
+    (rep Lobovko Syktyvkar)
+    (rep Zadorozhna Khabarovsk)
+    (rep Javorskij Khabarovsk)
+)
